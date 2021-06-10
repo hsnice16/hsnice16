@@ -1,4 +1,5 @@
-[![cover](LinkedIn%20Cover%201128x191%20px%20-%20Custom%20dimensions.jpeg)](https://www.notion.so/dynamicprogrammer-8a6c4e1dc7dd4078800c57a2a8491b74)
+[![cover](LinkedIn%20Cover%201128x191%20px%20-%20Custom%20dimensions.jpeg)](https://hsnice16.netlify.app/blogs.html)
+<div align="center"><a href="https://hsnice16.netlify.app/blogs.html">🔗hsnice16.netlify.app</a></div>
 <!--
 **hsnice16/hsnice16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
