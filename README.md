@@ -72,3 +72,9 @@ Here are some ideas to get you started:
 ## 📊 Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hsnice16&show_icons=true&theme=gotham" alt="Himanshu Singh | Stats" />
+
+-----
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/hsnice16"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+</div>
