@@ -1,6 +1,13 @@
 # Hello 👋, I'm Himanshu.
 
+<div align="center">
+
+![Header Image](https://github.com/hsnice16/hsnice16/blob/main/Linked_Header_2.PNG)
+
 [![](https://komarev.com/ghpvc/?username=hsnice16&color=blue&label=Profile%20Views)](https://github.com/hsnice16/hsnice16)
+
+</div>
+
 <!--
 **hsnice16/hsnice16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
