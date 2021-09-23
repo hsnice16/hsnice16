@@ -1,5 +1,6 @@
-[![cover](LinkedIn%20Cover%201128x191%20px%20-%20Custom%20dimensions.jpeg)](https://hsnice16.netlify.app/)
-<div align="center"><a href="https://hsnice16.netlify.app/" target="_blank">🔗hsnice16.netlify.app</a></div>
+# Hello 👋, I'm Himanshu.
+
+[![](https://komarev.com/ghpvc/?username=hsnice16&color=blue&label=Profile%20Views)](https://github.com/hsnice16/hsnice16)
 <!--
 **hsnice16/hsnice16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hsnice16&show_icons=true&theme=gotham" alt="Himanshu Singh | Stats" />
