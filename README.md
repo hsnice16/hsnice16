@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+-----
+
 ## 👨‍💻 Tech Skills
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,6 +43,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
+-----
+
 ## ✍️ Recent Blog Posts
 
 <table align="center">
@@ -56,7 +60,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-## Find Around The Web 🌍
+-----
+
+## 🌍 Find Around The Web
 
 <a href="https://twitter.com/hsnice16"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://github.com/hsnice16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -68,6 +74,8 @@ Here are some ideas to get you started:
 <a href="https://dynamicprogrammer.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 <a href="https://hsnice16.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://dev.to/hsnice16"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+
+-----
 
 ## 📊 Github Stats
 
