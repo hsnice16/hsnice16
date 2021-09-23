@@ -34,5 +34,21 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
+## ✍️ Recent Blog Posts
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+
+- [Why you should use Map Class over Plain Object in JavaScript](https://dynamicprogrammer.hashnode.dev/why-you-should-use-map-class-over-plain-object-in-javascript)
+- [10 useful react packages for Frontend, #reactjs](https://dynamicprogrammer.hashnode.dev/10-useful-react-packages-for-frontend-reactjs)
+- [Five Web dev projects](https://dynamicprogrammer.hashnode.dev/five-web-dev-projects)
+- [As a participant of GSSoC '21](https://dynamicprogrammer.hashnode.dev/as-a-participant-of-gssoc-21)
+    
+    </td>
+  </tr>
+</table>
+
 ## 📊 Github Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hsnice16&show_icons=true&theme=gotham" alt="Himanshu Singh | Stats" />
