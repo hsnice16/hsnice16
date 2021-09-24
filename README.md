@@ -51,7 +51,7 @@ Being a computer enthusiast, I keep finding ways to contribute to the computer f
 - [Create your own small component library](https://dynamicprogrammer.hashnode.dev/create-your-own-small-component-library)
 <!-- BLOG-POST-LIST:END -->
  
-    </td>
+</td>
   </tr>
 </table>
 
