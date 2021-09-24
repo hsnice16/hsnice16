@@ -43,11 +43,13 @@ Being a computer enthusiast, I keep finding ways to contribute to the computer f
   <tr>
     <td valign="top" width="50%">
 
+<!-- BLOG-POST-LIST:START -->
 - [Why you should use Map Class over Plain Object in JavaScript](https://dynamicprogrammer.hashnode.dev/why-you-should-use-map-class-over-plain-object-in-javascript)
 - [10 useful react packages for Frontend, #reactjs](https://dynamicprogrammer.hashnode.dev/10-useful-react-packages-for-frontend-reactjs)
 - [Five Web dev projects](https://dynamicprogrammer.hashnode.dev/five-web-dev-projects)
 - [As a participant of GSSoC '21](https://dynamicprogrammer.hashnode.dev/as-a-participant-of-gssoc-21)
-    
+      <!-- BLOG-POST-LIST:END -->
+ 
     </td>
   </tr>
 </table>
