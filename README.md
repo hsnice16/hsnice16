@@ -67,6 +67,7 @@ Being a computer enthusiast, I keep finding ways to contribute to the computer f
 <a href="https://stackoverflow.com/users/13823057/himanshu-singh"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC1j1TrFcvdHh5HcfFJiBuYQ"><img src="	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://dynamicprogrammer.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://hackernoon.com/u/hsnice"><img src="https://img.shields.io/badge/Hackernoon-00B171?style=for-the-badge&logo=hackernoon&logoColor=white"/></a>
 <a href="https://hsnice16.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://dev.to/hsnice16"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
