@@ -41,7 +41,7 @@ Being a computer enthusiast, I keep finding ways to contribute to the computer f
 
 <table align="center">
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%">
 
 <!-- BLOG-POST-LIST:START -->
 - [Why you should use Map Class over Plain Object in JavaScript](https://dynamicprogrammer.hashnode.dev/why-you-should-use-map-class-over-plain-object-in-javascript)
