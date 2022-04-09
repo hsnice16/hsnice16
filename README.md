@@ -1,4 +1,4 @@
-# Hello 👋, I'm Himanshu.
+# Hey 👋, Nice to Meet You!
 
 <div align="center">
 
@@ -8,9 +8,18 @@
 
 </div>
 
-I am a front-end web developer. I love doing side-projects and to date have made many of them. Please have a look at my [GitHub repositories](https://github.com/hsnice16?tab=repositories) to know more about them.
+Himanshu Singh is a final year (only 2 months are left) student of B.Sc (H) CS and he is also learning web development at neogCamp. He has a keen interest in the web development field and has made many projects to keep building his learning. 
 
-Being a computer enthusiast, I keep finding ways to contribute to the computer field. So far, I have contributed to [Girlscript Summer Of Code '21](https://gssoc.girlscript.tech/), [HacktoberFEST '20](https://hacktoberfest.digitalocean.com/), and have completed "Engineering: Undergraduate & Masters Virtual Internship Platform", conducted by Microsoft on [InsideSherpa](https://www.theforage.com/). I have also worked as a Web Development Intern at [CatalysEd](https://www.catalysed.org/).
+Check his GitHub repositories, https://github.com/hsnice16?tab=repositories
+
+He has also contributed to some open projects while doing [GirlScript Summer of Code](https://gssoc.girlscript.tech/) and [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and has also done a web development internship at a very early stage start-up.
+
+He keeps sharing his learning via blog writing, Twitter threads, and LinkedIn posts. Check his work,
+Blogs: https://dynamicprogrammer.hashnode.dev/
+Twitter: https://twitter.com/hsnice16
+LinkedIn: https://www.linkedin.com/in/hsnice16/
+
+Himanshu would love to connect with you for a discussion around opportunities you have for him!
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of 🎬
@@ -21,7 +30,6 @@ Being a computer enthusiast, I keep finding ways to contribute to the computer f
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
