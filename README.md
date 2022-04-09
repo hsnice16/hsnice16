@@ -8,16 +8,17 @@
 
 </div>
 
-Himanshu Singh is a final year (only 2 months are left) student of B.Sc (H) CS and he is also learning web development at neogCamp. He has a keen interest in the web development field and has made many projects to keep building his learning. 
+Himanshu Singh is a final year (only 2 months are left) student of B.Sc (H) CS and he is also learning web development at [neogCamp](https://neog.camp/). He has a keen interest in the web development field and has made many projects to keep building his learning. 
 
-Check his GitHub repositories, https://github.com/hsnice16?tab=repositories
+Check his [GitHub repositories](https://github.com/hsnice16?tab=repositories)
 
 He has also contributed to some open projects while doing [GirlScript Summer of Code](https://gssoc.girlscript.tech/) and [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and has also done a web development internship at a very early stage start-up.
 
 He keeps sharing his learning via blog writing, Twitter threads, and LinkedIn posts. Check his work,
-Blogs: https://dynamicprogrammer.hashnode.dev/
-Twitter: https://twitter.com/hsnice16
-LinkedIn: https://www.linkedin.com/in/hsnice16/
+
+- [Blogs](https://dynamicprogrammer.hashnode.dev/)
+- [Twitter](https://twitter.com/hsnice16)
+- [LinkedIn](https://www.linkedin.com/in/hsnice16/)
 
 Himanshu would love to connect with you for a discussion around opportunities you have for him!
 
