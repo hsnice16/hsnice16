@@ -8,7 +8,7 @@
 
 </div>
 
-Himanshu Singh is a final year (only 2 months are left) student of B.Sc (H) CS and he is also learning web development at [neogCamp](https://neog.camp/). He has a keen interest in the web development field and has made many projects to keep building his learning. 
+Himanshu Singh is a fresher with a degree in B.Sc (H) CS. He has a keen interest in the web development field and has made many projects to keep building his learning. 
 
 Check his [GitHub repositories](https://github.com/hsnice16?tab=repositories)
 
