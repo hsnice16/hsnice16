@@ -11,7 +11,7 @@
 </div>
 
 -->
-Himanshu Singh is a recently graduated student. He has done his bachelor's in Computer Science honors. 
+Himanshu Singh is a 2022 graduated student. He has done his bachelor's in Computer Science honors. 
 
 He has a keen interest in Web Dev and has contributed to the Open Source Projects under [GirlScript Summer of Code](https://gssoc.girlscript.tech/) and [Hacktoberfest](https://hacktoberfest.digitalocean.com/). He has also completed an internship at an early-stage startup where he developed the whole front-end for their Proof Of Concept.
 
