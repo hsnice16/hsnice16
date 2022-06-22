@@ -12,6 +12,7 @@
 -->
 
 My name is Himanshu Singh.
+
 I am a 2022 graduate. I love to learn new web technologies and implement them in my projects. I have used Vanilla JS, React, Redux Toolkit, Material UI, and Posh UI to make my projects.
 
 Posh UI is my own component library.
