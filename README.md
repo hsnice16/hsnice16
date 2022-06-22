@@ -1,5 +1,4 @@
-# Hey 👋, Nice to Meet You!
-## About me
+# Hey 👋, there!
 <!--
 
 <div align="center">
@@ -11,23 +10,25 @@
 </div>
 
 -->
-Himanshu Singh is a 2022 graduated student. He has done his bachelor's in Computer Science honors. 
 
-He has a keen interest in Web Dev and has contributed to the Open Source Projects under [GirlScript Summer of Code](https://gssoc.girlscript.tech/) and [Hacktoberfest](https://hacktoberfest.digitalocean.com/). He has also completed an internship at an early-stage startup where he developed the whole front-end for their Proof Of Concept.
+My name is Himanshu Singh.
+I am a 2022 graduate. I love to learn new web technologies and implement them in my projects. I have used Vanilla JS, React, Redux Toolkit, Material UI, and Posh UI to make my projects.
 
-He has built several projects using front-end tech and has also built a full-stack app as a College assignment.
+Posh UI is my own component library.
 
-(* Please see the pinned projects *) 
+I have also made an app in which more than 40 users have signed in. I used Vanilla JS, Express JS, and Mongo DB to make that. And for authentication, I used firebase auth.
 
-He keeps sharing his learning via blog writing, Twitter threads, and LinkedIn posts. Check his work,
+I have also contributed to some open-source projects. Some contributions I have done under GirlScript Summer of Code and before that, I did some under Hacktoberfest.
 
-- [Blogs](https://dynamicprogrammer.hashnode.dev/)
-- [Twitter](https://twitter.com/hsnice16)
-- [LinkedIn](https://www.linkedin.com/in/hsnice16/)
+In GirlScript Summer of Code, PRs and Issues that I raised were related to frontend problems, which I solved using React. If I mention one of the issues for which I had raised PR, so was for reloading of react app on changing router/path. We can solve that using React Router, so I worked on that.
 
-And nowadays, he is making his basics strong and also learning advanced things related to Web Dev at [neogCamp](https://neog.camp/).
+I have also completed an internship with an early-stage startup. Where I got a chance to work with React, TypeScript, and React Bootstrap.
 
-Thank you for reading till the end!
+In my free time, you can find me writing blogs and watching tech-related podcasts.
+
+Yeah! That's all about me.
+Thank you.
+
 <!--
 - ⚡ Fun fact: Big fan of 🎬
 -->
