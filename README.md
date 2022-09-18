@@ -6,7 +6,7 @@
 <kbd>[![Linkedin](https://img.shields.io/badge/-hsnice16-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hsnice16/)](https://www.linkedin.com/in/hsnice16/)</kbd>
 <kbd>[![Instagram](https://img.shields.io/badge/-hsnice16-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hsnice16/)](https://instagram.com/hsnice16)</kbd>
 <kbd>[![Gmail Badge](https://img.shields.io/badge/-hsnice16@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:hsnice16@gmail.com)](mailto:hsnice16@gmail.com)</kbd>
-<kbd>[![Hashnode](https://img.shields.io/badge/-hsnice16%20blog-2962FF?logo=hashnode&logoColor=white)](https://dynamicprogrammer.hashnode.dev/)</kbd>
+<kbd>[![Hashnode](https://img.shields.io/badge/-himanshu's%20blog-2962FF?logo=hashnode&logoColor=white)](https://dynamicprogrammer.hashnode.dev/)</kbd>
 
 <!-- Github Profile -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsnice16.hsnice16)
