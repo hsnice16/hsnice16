@@ -16,7 +16,7 @@
 ## I'm an <Engineer 🧑🏻‍💻/> 
 
 <div align="top">
-  <img align="right" src="/src/assets/home_anime.gif" width="500" height="400" />
+  <img align="right" src="home_anime.gif" width="500" height="400" />
 </div>
 
 ⚡ I'm an experienced frontend engineer
