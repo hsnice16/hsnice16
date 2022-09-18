@@ -22,6 +22,7 @@
 ⚡ I'm an experienced frontend engineer
 - 🔜 Exploring MERN stack
 - Have contributed in [GSSoC](https://gssoc.girlscript.tech/) and [Hacktoberfest](https://hacktoberfest.com/)
+- Was part of [neogCamp](https://neog.camp/)
 
 ---
 
