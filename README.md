@@ -5,7 +5,7 @@
 <kbd>[![Twitter Followers](https://img.shields.io/twitter/follow/hsnice16?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhsnice16&screen_name=hsnice16)</kbd>
 <kbd>[![Linkedin](https://img.shields.io/badge/-hsnice16-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hsnice16/)](https://www.linkedin.com/in/hsnice16/)</kbd>
 <kbd>[![Instagram](https://img.shields.io/badge/-hsnice16-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hsnice16/)](https://instagram.com/hsnice16)</kbd>
-<kbd>[![Gmail Badge](https://img.shields.io/badge/-hsnice16@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:hsnice16@gmail.com)](mailto:hsnice164@gmail.com)</kbd>
+<kbd>[![Gmail Badge](https://img.shields.io/badge/-hsnice16@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:hsnice16@gmail.com)](mailto:hsnice16@gmail.com)</kbd>
 <kbd>[![Hashnode](https://img.shields.io/badge/-hsnice16%20blog-2962FF?logo=hashnode&logoColor=white)](https://dynamicprogrammer.hashnode.dev/)</kbd>
 
 <!-- Github Profile -->
