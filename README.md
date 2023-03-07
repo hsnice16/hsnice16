@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [sneak peek into HTML Parsing](https://dynamicprogrammer.hashnode.dev/sneak-peek-into-html-parsing)
 - [Web Accessibility #a11y](https://dynamicprogrammer.hashnode.dev/web-accessibility-a11y)
 - [Absolute path in react js](https://dynamicprogrammer.hashnode.dev/absolute-path-in-react-js)
 - [Launching &quot;onlibrary - a web app for onlineLibrary&quot;, #Netlify #NetlifyHackathon](https://dynamicprogrammer.hashnode.dev/onlibrary-a-web-app-for-onlinelibrary)
 - [Why do we call ReactJs declarative?](https://dynamicprogrammer.hashnode.dev/why-do-we-call-reactjs-declarative)
+- [Difference between a Scripting Language and a Programming Language](https://dynamicprogrammer.hashnode.dev/difference-between-a-scripting-language-and-a-programming-language)
 <!-- BLOG-POST-LIST:END -->
 
 ---
