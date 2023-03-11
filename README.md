@@ -45,10 +45,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Launching &quot;onlibrary - a web app for onlineLibrary&quot;, #Netlify #NetlifyHackathon](https://dynamicprogrammer.hashnode.dev/onlibrary-a-web-app-for-onlinelibrary)
-- [Why do we call ReactJs declarative?](https://dynamicprogrammer.hashnode.dev/why-do-we-call-reactjs-declarative)
 - [Difference between a Scripting Language and a Programming Language](https://dynamicprogrammer.hashnode.dev/difference-between-a-scripting-language-and-a-programming-language)
 - [Why you should not use export default in JavaScript?](https://dynamicprogrammer.hashnode.dev/why-you-should-not-use-export-default-in-javascript)
 - [Working with DOM in JavaScript](https://dynamicprogrammer.hashnode.dev/working-with-dom-in-javascript)
+- [10 useful react packages for Frontend, #reactjs](https://dynamicprogrammer.hashnode.dev/10-useful-react-packages-for-frontend-reactjs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
