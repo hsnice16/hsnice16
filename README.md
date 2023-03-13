@@ -44,9 +44,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving to another platform](https://dynamicprogrammer.hashnode.dev/moving-to-another-platform)
 - [Launching &quot;onlibrary - a web app for onlineLibrary&quot;, #Netlify #NetlifyHackathon](https://dynamicprogrammer.hashnode.dev/onlibrary-a-web-app-for-onlinelibrary)
 - [Why you should not use export default in JavaScript?](https://dynamicprogrammer.hashnode.dev/why-you-should-not-use-export-default-in-javascript)
-- [Working with DOM in JavaScript](https://dynamicprogrammer.hashnode.dev/working-with-dom-in-javascript)
 - [10 useful react packages for Frontend, #reactjs](https://dynamicprogrammer.hashnode.dev/10-useful-react-packages-for-frontend-reactjs)
 - [Five Web dev projects](https://dynamicprogrammer.hashnode.dev/five-web-dev-projects)
 <!-- BLOG-POST-LIST:END -->
