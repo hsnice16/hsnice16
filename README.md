@@ -46,9 +46,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Moving to another platform](https://dynamicprogrammer.hashnode.dev/moving-to-another-platform)
 - [Launching &quot;onlibrary - a web app for onlineLibrary&quot;, #Netlify #NetlifyHackathon](https://dynamicprogrammer.hashnode.dev/onlibrary-a-web-app-for-onlinelibrary)
-- [Why you should not use export default in JavaScript?](https://dynamicprogrammer.hashnode.dev/why-you-should-not-use-export-default-in-javascript)
 - [10 useful react packages for Frontend, #reactjs](https://dynamicprogrammer.hashnode.dev/10-useful-react-packages-for-frontend-reactjs)
 - [Five Web dev projects](https://dynamicprogrammer.hashnode.dev/five-web-dev-projects)
+- [As a participant of GSSoC &#39;21](https://dynamicprogrammer.hashnode.dev/as-a-participant-of-gssoc-21)
 <!-- BLOG-POST-LIST:END -->
 
 ---
