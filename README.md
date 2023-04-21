@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Himanshu Singh - [hsnice16][linkedin] 
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Himanshu Singh - [hsnice16][linkedin] 
  
 <!-- Social -->
 
@@ -62,6 +62,10 @@
 ---
 
 *Made with* ♥️ *by [Himanshu Singh][linkedin]*
+
+---
+
+Support by [buying me a book](https://www.buymeacoffee.com/hsnice16)
 
 [twitter]: https://twitter.com/hsnice16
 [instagram]: https://instagram.com/hsnice16
