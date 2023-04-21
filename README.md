@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [E2E test of a Browser Extension with Puppeteer](https://hsnice16.medium.com/send-large-files-from-frontend-to-the-backend-2f5f2414cc7c)
-- [Send large files from frontend to the backend](https://hsnice16.medium.com/send-large-files-from-frontend-to-the-backend-2f5f2414cc7c)
-- [Why you should not use export default in JavaScript?](https://hsnice16.medium.com/why-you-should-not-use-export-default-in-javascript-5fc1534de36b)
-- [Working with DOM in JavaScript](https://hsnice16.medium.com/working-with-dom-in-javascript-276fea56bbbe)
-- [Difference between a Scripting Language and a Programming Language](https://hsnice16.medium.com/difference-between-a-scripting-language-and-a-programming-language-fee061abe200)
+- [E2E test of a Browser Extension with Puppeteer](https://hsnice16.medium.com/e2e-test-of-a-browser-extension-with-puppeteer-865fdb2531e1?source=rss-7c3a23f073ae------2)
+- [Send large files from frontend to the backend](https://hsnice16.medium.com/send-large-files-from-frontend-to-the-backend-2f5f2414cc7c?source=rss-7c3a23f073ae------2)
+- [Why you should not use export default in JavaScript?](https://hsnice16.medium.com/why-you-should-not-use-export-default-in-javascript-5fc1534de36b?source=rss-7c3a23f073ae------2)
+- [Working with DOM in JavaScript](https://hsnice16.medium.com/working-with-dom-in-javascript-276fea56bbbe?source=rss-7c3a23f073ae------2)
+- [Difference between a Scripting Language and a Programming Language](https://hsnice16.medium.com/difference-between-a-scripting-language-and-a-programming-language-fee061abe200?source=rss-7c3a23f073ae------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
