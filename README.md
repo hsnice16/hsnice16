@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving to another platform](https://dynamicprogrammer.hashnode.dev/moving-to-another-platform)
-- [Launching &quot;onlibrary - a web app for onlineLibrary&quot;, #Netlify #NetlifyHackathon](https://dynamicprogrammer.hashnode.dev/onlibrary-a-web-app-for-onlinelibrary)
-- [10 useful react packages for Frontend, #reactjs](https://dynamicprogrammer.hashnode.dev/10-useful-react-packages-for-frontend-reactjs)
-- [Five Web dev projects](https://dynamicprogrammer.hashnode.dev/five-web-dev-projects)
-- [As a participant of GSSoC &#39;21](https://dynamicprogrammer.hashnode.dev/as-a-participant-of-gssoc-21)
+- [E2E test of a Browser Extension with Puppeteer](https://hsnice16.medium.com/send-large-files-from-frontend-to-the-backend-2f5f2414cc7c)
+- [Send large files from frontend to the backend](https://hsnice16.medium.com/send-large-files-from-frontend-to-the-backend-2f5f2414cc7c)
+- [Why you should not use export default in JavaScript?](https://hsnice16.medium.com/why-you-should-not-use-export-default-in-javascript-5fc1534de36b)
+- [Working with DOM in JavaScript](https://hsnice16.medium.com/working-with-dom-in-javascript-276fea56bbbe)
+- [Difference between a Scripting Language and a Programming Language](https://hsnice16.medium.com/difference-between-a-scripting-language-and-a-programming-language-fee061abe200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
