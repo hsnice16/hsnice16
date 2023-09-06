@@ -9,9 +9,11 @@
 <kbd>[![Medium](https://img.shields.io/badge/-himanshu's%20blog-000000?logo=medium&logoColor=white)](https://hsnice16.medium.com/)</kbd>
 
 <!-- Github Profile -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hsnice16.hsnice16)
+
 ![GitHub followers](https://img.shields.io/github/followers/hsnice16?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/hsnice16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=hsnice16&countColor=%23263759)
 
 ## I'm an <Engineer 🧑🏻‍💻/> 
 
@@ -62,10 +64,6 @@
 ---
 
 *Made with* ♥️ *by [Himanshu Singh][linkedin]*
-
----
-
-Support by [buying me a book](https://www.buymeacoffee.com/hsnice16)
 
 [twitter]: https://twitter.com/hsnice16
 [instagram]: https://instagram.com/hsnice16
