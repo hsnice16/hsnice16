@@ -20,5 +20,8 @@
     <li>
       <a href="https://poshui.netlify.app/">poshui.netlify.app</a>
     </li>
+    <li>
+      <a href="https://vanilla-web.netlify.app/">vanilla-web.netlify.app</a>
+    </li>
   </ul>
 </samp>
