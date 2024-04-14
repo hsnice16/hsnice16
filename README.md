@@ -24,3 +24,12 @@
     </li>
   </ul>
 </samp>
+
+<samp>
+  <ul>
+    <p>Talks</p>
+    <li>
+      <a href="https://youtu.be/5nwA9B9LSaM?si=8rteLmCtBSuBDf4y">Debug Efficiently using React Developer Tools</a>    
+    </li>
+  </ul>
+</samp>
