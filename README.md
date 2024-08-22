@@ -10,6 +10,27 @@
 
 <samp>
   <ul>
+    <p>Blogs</p>
+    <li>
+      <a href="https://hsnice16.medium.com/write-your-own-telegram-wallet-bot-84a8877af038">Write your own Telegram Wallet bot</a>    
+    </li>
+    <li>
+      <a href="https://hsnice16.medium.com/send-large-files-from-frontend-to-the-backend-2f5f2414cc7c">Send large files from frontend to the backend</a>    
+    </li>
+    <li>
+      <a href="https://hsnice16.medium.com/csrf-web-security-threat-20049b5ee92e">CSRF: Web Security Threat</a>    
+    </li>
+    <li>
+      <a href="https://hsnice16.medium.com/why-you-should-use-map-class-over-plain-object-in-javascript-96b704c1c592">Why you should use Map Class over Plain Object in JavaScript</a>    
+    </li>
+    <li>
+      <a href="https://hsnice16.medium.com/why-you-should-not-use-export-default-in-javascript-5fc1534de36b">Why you should not use export default in JavaScript?</a>    
+    </li>
+  </ul>
+</samp>
+
+<samp>
+  <ul>
     <p>Gumroad</p>
     <li>
       <a href="https://hsnice.gumroad.com/l/pdnbo">KPI Metric Cards Component</a>    
