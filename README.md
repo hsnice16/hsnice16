@@ -12,6 +12,9 @@
   <ul>
     <p>Blogs</p>
     <li>
+      <a href="https://hsnice16.medium.com/lambda-function-to-access-rds-s3-and-eventbridge-in-aws-f55b95e7a5bc">Lambda function to access RDS, S3. And, Eventbridge in AWS</a>    
+    </li>
+    <li>
       <a href="https://hsnice16.medium.com/write-your-own-telegram-wallet-bot-84a8877af038">Write your own Telegram Wallet bot</a>    
     </li>
     <li>
@@ -22,9 +25,6 @@
     </li>
     <li>
       <a href="https://hsnice16.medium.com/send-large-files-from-frontend-to-the-backend-2f5f2414cc7c">Send large files from frontend to the backend</a>    
-    </li>
-    <li>
-      <a href="https://hsnice16.medium.com/csrf-web-security-threat-20049b5ee92e">CSRF: Web Security Threat</a>    
     </li>
   </ul>
 </samp>
@@ -41,9 +41,11 @@
 <samp>
   <ul>
     <p>Projects</p>
+    <!--
     <li>
       <a href="https://techinterviewexp.site/">techinterviewexp.site</a>    
     </li>
+    -->
     <li>
       <a href="https://forming-typeform.vercel.app/">forming-typeform.vercel.app</a>      
     </li>
