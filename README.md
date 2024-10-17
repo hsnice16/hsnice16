@@ -1,8 +1,6 @@
 <p align="center">
   <samp>
     <a href="https://twitter.com/hsnice16">twitter</a> • 
-    <a href="https://www.linkedin.com/in/hsnice16/">linkedin</a> • 
-    <a href="https://www.instagram.com/hsnice16">instagram</a> • 
     <a href="https://hsnice16.medium.com/">medium (blogs)</a>
   </samp>
 
@@ -38,6 +36,7 @@
   </ul>
 </samp>
 
+<!--
 <samp>
   <ul>
     <p>Projects</p>
@@ -45,7 +44,8 @@
     <li>
       <a href="https://techinterviewexp.site/">techinterviewexp.site</a>    
     </li>
-    -->
+    // missing end
+
     <li>
       <a href="https://forming-typeform.vercel.app/">forming-typeform.vercel.app</a>      
     </li>
@@ -57,7 +57,9 @@
     </li>
   </ul>
 </samp>
+-->
 
+<!--
 <samp>
   <ul>
     <p>Talks</p>
@@ -66,3 +68,4 @@
     </li>
   </ul>
 </samp>
+-->
