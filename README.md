@@ -1,10 +1,11 @@
+<!--
 <p align="center">
   <samp>
     <a href="https://twitter.com/hsnice16">twitter</a> • 
     <a href="https://hsnice16.medium.com/">medium (blogs)</a>
   </samp>
-
 </p>
+-->
 
 <samp>
   <ul>
