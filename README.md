@@ -1,11 +1,15 @@
-<!--
-<p align="center">
-  <samp>
-    <a href="https://twitter.com/hsnice16">twitter</a> • 
-    <a href="https://hsnice16.medium.com/">medium (blogs)</a>
-  </samp>
-</p>
--->
+<samp>
+  <ul>
+    <p>Code Playlists</p>
+    <li>
+      <a href="https://youtube.com/playlist?list=PLj8MD51SiJ3r73k0cWMU4DBCPEu4vN_D-&si=JhhYn5XcLhFvkc0y">Rate Limiter in Go</a>    
+    </li>
+    <li>
+      <a href="https://youtube.com/playlist?list=PLj8MD51SiJ3ol0gAqfmrS0dI8EKa_X9ut&si=gSub4VaZTipTtHd-">Redis in Go</a>    
+    </li>
+  </ul>
+</samp>
+
 
 <samp>
   <ul>
@@ -25,8 +29,8 @@
     <li>
       <a href="https://medium.com/@hsnice16/build-and-push-the-docker-image-on-aws-ecr-using-github-actions-ae58567dc79e">Build and Push the docker image on AWS ECR using GitHub actions.</a>    
     </li>
-    <li></li>
-    <a href="https://hsnice16.medium.com/">...more</a>
+<!--     <li></li>
+   <a href="https://hsnice16.medium.com/">...more</a> -->
   </ul>
 </samp>
 
@@ -72,3 +76,19 @@
   </ul>
 </samp>
 -->
+
+--
+
+<p align="center">
+  <samp>
+    <a href="https://twitter.com/hsnice16">twitter</a> • 
+    <a href="https://www.linkedin.com/in/hsnice16/">linkedin</a> • 
+    <a href="https://www.instagram.com/hsnice16/">instagram</a>
+  </samp>
+</p>
+<p align="center">
+  <samp>
+    <a href="https://hsnice16.medium.com/">medium (blogs)</a> • 
+    <a href="https://personal-logs.vercel.app/book">website</a>
+  </samp>
+</p>
