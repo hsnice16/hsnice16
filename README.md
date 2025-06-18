@@ -2,10 +2,10 @@
   <ul>
     <p>Code Playlists</p>
     <li>
-      <a href="https://youtube.com/playlist?list=PLj8MD51SiJ3r73k0cWMU4DBCPEu4vN_D-&si=JhhYn5XcLhFvkc0y">Rate Limiter in Go</a>    
+      <a href="https://youtube.com/playlist?list=PLj8MD51SiJ3r73k0cWMU4DBCPEu4vN_D-&si=JhhYn5XcLhFvkc0y" target="_blank">Rate Limiter in Go</a>    
     </li>
     <li>
-      <a href="https://youtube.com/playlist?list=PLj8MD51SiJ3ol0gAqfmrS0dI8EKa_X9ut&si=gSub4VaZTipTtHd-">Redis in Go</a>    
+      <a href="https://youtube.com/playlist?list=PLj8MD51SiJ3ol0gAqfmrS0dI8EKa_X9ut&si=gSub4VaZTipTtHd-" target="_blank">Redis in Go</a>    
     </li>
   </ul>
 </samp>
@@ -15,19 +15,19 @@
   <ul>
     <p>Blogs</p>
     <li>
-      <a href="https://hsnice16.medium.com/the-right-way-to-build-a-typescript-sdk-75657476bc95">The right way to build a TypeScript SDK</a>    
+      <a href="https://hsnice16.medium.com/the-right-way-to-build-a-typescript-sdk-75657476bc95" target="_blank">The right way to build a TypeScript SDK</a>    
     </li>
     <li>
-      <a href="https://hsnice16.medium.com/design-a-perpetual-trading-dapp-system-9477908ed718">Design a Perpetual Trading DApp System</a>    
+      <a href="https://hsnice16.medium.com/design-a-perpetual-trading-dapp-system-9477908ed718" target="_blank">Design a Perpetual Trading DApp System</a>    
     </li>
     <li>
-      <a href="https://hsnice16.medium.com/lambda-function-to-access-rds-s3-and-eventbridge-in-aws-f55b95e7a5bc">Lambda function to access RDS, S3. And, Eventbridge in AWS</a>    
+      <a href="https://hsnice16.medium.com/lambda-function-to-access-rds-s3-and-eventbridge-in-aws-f55b95e7a5bc" target="_blank">Lambda function to access RDS, S3. And, Eventbridge in AWS</a>    
     </li>
     <li>
-      <a href="https://hsnice16.medium.com/write-your-own-telegram-wallet-bot-84a8877af038">Write your own Telegram Wallet bot</a>    
+      <a href="https://hsnice16.medium.com/write-your-own-telegram-wallet-bot-84a8877af038" target="_blank">Write your own Telegram Wallet bot</a>    
     </li>
     <li>
-      <a href="https://medium.com/@hsnice16/build-and-push-the-docker-image-on-aws-ecr-using-github-actions-ae58567dc79e">Build and Push the docker image on AWS ECR using GitHub actions.</a>    
+      <a href="https://medium.com/@hsnice16/build-and-push-the-docker-image-on-aws-ecr-using-github-actions-ae58567dc79e" target="_blank">Build and Push the docker image on AWS ECR using GitHub actions.</a>    
     </li>
 <!--     <li></li>
    <a href="https://hsnice16.medium.com/">...more</a> -->
@@ -38,7 +38,7 @@
   <ul>
     <p>Gumroad</p>
     <li>
-      <a href="https://hsnice.gumroad.com/l/pdnbo">KPI Metric Cards Component</a>    
+      <a href="https://hsnice.gumroad.com/l/pdnbo" target="_blank">KPI Metric Cards Component</a>    
     </li>
   </ul>
 </samp>
@@ -81,14 +81,14 @@
 
 <p align="center">
   <samp>
-    <a href="https://twitter.com/hsnice16">twitter</a> • 
-    <a href="https://www.linkedin.com/in/hsnice16/">linkedin</a> • 
-    <a href="https://www.instagram.com/hsnice16/">instagram</a>
+    <a href="https://twitter.com/hsnice16" target="_blank">twitter</a> • 
+    <a href="https://www.linkedin.com/in/hsnice16/" target="_blank">linkedin</a> • 
+    <a href="https://www.instagram.com/hsnice16/" target="_blank">instagram</a>
   </samp>
 </p>
 <p align="center">
   <samp>
-    <a href="https://hsnice16.medium.com/">medium (blogs)</a> • 
-    <a href="https://personal-logs.vercel.app/book">website</a>
+    <a href="https://hsnice16.medium.com/" target="_blank">medium (blogs)</a> • 
+    <a href="https://personal-logs.vercel.app/book" target="_blank">website</a>
   </samp>
 </p>
