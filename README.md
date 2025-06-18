@@ -82,12 +82,6 @@
 <p align="center">
   <samp>
     <a href="https://twitter.com/hsnice16" target="_blank">twitter</a> • 
-    <a href="https://www.linkedin.com/in/hsnice16/" target="_blank">linkedin</a> • 
-    <a href="https://www.instagram.com/hsnice16/" target="_blank">instagram</a>
-  </samp>
-</p>
-<p align="center">
-  <samp>
     <a href="https://hsnice16.medium.com/" target="_blank">medium (blogs)</a> • 
     <a href="https://personal-logs.vercel.app/book" target="_blank">website</a>
   </samp>
