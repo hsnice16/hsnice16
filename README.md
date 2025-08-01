@@ -2,6 +2,9 @@
   <ul>
     <p>Code Playlists</p>
     <li>
+      <a href="https://youtube.com/playlist?list=PLj8MD51SiJ3ojgzg28dbuTtsX6WCuOJoB&si=E92n0zZ3eCh8r0M3" target="_blank">Frontend Coding Challenge</a>    
+    </li>
+    <li>
       <a href="https://youtube.com/playlist?list=PLj8MD51SiJ3r73k0cWMU4DBCPEu4vN_D-&si=JhhYn5XcLhFvkc0y" target="_blank">Rate Limiter in Go</a>    
     </li>
     <li>
