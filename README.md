@@ -80,6 +80,34 @@
 </samp>
 
 
+<samp>
+  <ul>
+    <p>Projects</p>
+    <li>
+      <a href="https://vanilla-web.netlify.app">vanilla-web.netlify.app</a>    
+    </li>
+    <li>
+      <a href="https://webgpusnippets.vercel.app">webgpusnippets.vercel.app</a>
+    </li>
+    <li>
+      <a href="https://techinterviewexp.netlify.app/about">techinterviewexp.netlify.app/about</a>
+    </li>
+    <li>
+      <a href="https://flipsei.vercel.app">flipsei.vercel.app</a>
+    </li>
+    <li>
+      <a href="https://formingjotform.vercel.app">formingjotform.vercel.app</a>
+    </li>
+    <li>
+      <a href="https://formingtypeform.vercel.app">formingtypeform.vercel.app</a>
+    </li>
+    <li>
+      <a href="https://exotic-ranee-hsnice16-19945db3.koyeb.app/swagger/index.html">exotic-ranee-hsnice16-19945db3.koyeb.app/swagger/index.html</a>
+    </li>
+  </ul>
+</samp>
+
+
 --
 
 <p align="center">
