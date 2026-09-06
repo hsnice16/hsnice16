@@ -15,7 +15,6 @@ If you have any opportunities for me, please drop me an email at hsnice16@gmail.
 - [usetu.la](https://www.usetu.la/)
 - [agentfriendlycode.com](https://agentfriendlycode.com/)
 - [techinterviewexp.site](https://techinterviewexp.site/)
-- [personallogs.vercel.app](https://personallogs.vercel.app/)
 
 <!--
 <samp>
